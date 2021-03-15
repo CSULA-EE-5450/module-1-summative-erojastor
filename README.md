@@ -4,7 +4,7 @@ Building a game with Kivy and accessing through HTTP request
 #Introduction:
 In this assignment, we were given the task to create a game using a library of our choice.
 I decided to use the Kivy library and implement a GUI. To play the game one must click run
-on `MainGameTag` in which two players can play on the same computer using the WASD and 
+on `MainGameTag` under the Tag folder, in which two players can play on the same computer using the WASD and 
 arrow keys as well as spacebar.
 
 Other game attempts were made such as `TicTacToeKivy_attempt1`, `Ghetto_Scrabble_attempt1` and `RegularTicTacToe`
